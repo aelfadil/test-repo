@@ -1,6 +1,7 @@
 {
-  "name": "ChannelPlus by Deloitte Digital",
-  "description": "Beyond the horizon",
-  "repository": "https://github.com/aelfadil/test-repo.git",
-  "logo": "http://image.S7.exacttarget.com/lib/fe8813727d6c017574/m/1/6ace2993-db5a-44ed-acbc-ec1f72f1b1a1.png"
+  "name": "Node.js Sample",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/heroku/node-js-sample",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
 }
