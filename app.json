@@ -1,8 +1,6 @@
 {
   "name": "ChannelPlus by Deloitte Digital",
   "description": "Beyond the horizon",
-  "website": "https://cx2020.com/",
-  "repository": "https://github.com/aelfadil/test-repo",
-  "logo": "http://image.S7.exacttarget.com/lib/fe8813727d6c017574/m/1/6ace2993-db5a-44ed-acbc-ec1f72f1b1a1.png",
-  "keywords": ["node", "express", "MC"]
+  "repository": "https://github.com/aelfadil/test-repo.git",
+  "logo": "http://image.S7.exacttarget.com/lib/fe8813727d6c017574/m/1/6ace2993-db5a-44ed-acbc-ec1f72f1b1a1.png"
 }
